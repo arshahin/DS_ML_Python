@@ -1,2 +1,2 @@
-# DS_ML_Python
-These are the course materials on data science and machine learning via Python
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
